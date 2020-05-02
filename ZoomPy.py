@@ -6,8 +6,8 @@ import time
 # Joining Zoom Meeting:
 
 # update meeting info
-meeting_id = '734757637'
-# meeting_pw = '230931'
+meeting_id = '123456789'
+meeting_pw = '111111'
 # adjust how long the recording to be in minutes (max 120 minutes)
 meeting_dur = 50
 # screen recording are sent to This PC -> Videos
@@ -38,10 +38,10 @@ pag.write(meeting_id)
 pag.press('enter', interval=1)
 
 # comment out if there's no password
-#time.sleep(3)
-#pag.press('enter', interval=1)
-#pag.write(meeting_pw)
-#pag.press('enter', interval=1)
+time.sleep(3)
+pag.press('enter', interval=1)
+pag.write(meeting_pw)
+pag.press('enter', interval=1)
 
 
 # Recording meeting using Windows Game Bar:
