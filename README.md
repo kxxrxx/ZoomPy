@@ -29,7 +29,7 @@ Steps:
 3. Run ZoomPy.py.
 
 
-~~~~~~ Scheduling the Script (Optional)
+Scheduling the Script (Optional):
 
 To schedule the script to run automatically at certain times, you can use Task Scheduler by:
 
@@ -64,7 +64,7 @@ To schedule the script to run automatically at certain times, you can use Task S
 7. When done, press OK.
 
 
-~~~~~~ Update Zoom Settings
+Update Zoom Settings:
 
 a. Join audio by computer when joining a meeting (mandatory)
     - In Audio, check 'Automatically join audio by computer when joining a meeting'
